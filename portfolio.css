@@ -28,12 +28,13 @@
   }
 
   .fix {
-    position: absolute;
+    margin-top: 100px;
     bottom: 125px;
     left: 65%;
     height: 350px;
     width: 350px;
     border-radius: 50%;
+
 
   }
 
